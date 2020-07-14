@@ -4,7 +4,10 @@ I'm Ismael Estalayo, currently a Telecommunication Engineering Master student lo
 
 
 📫 You can reach me in [Twitter](https://twitter.com/ismaelestalayo/)
+
 🌐 Find me on the web at [ismaelestalayo.com](https://ismaelestalayo.com/)
+
 🚀 Check my work on [Crypto Tracker](https://www.microsoft.com/es-es/p/cryptotracker/9n3b47hbvblc?ocid=badge%3fcid%3dpersonal)
+
 💼 See my previous projects in the pinned section below:
 
