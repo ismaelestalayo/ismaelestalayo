@@ -3,7 +3,7 @@
 I'm Ismael Estalayo, a Telecommunication Engineer from Bilbao, Spain who loves designing and creating beautiful interfaces, working in data manipulation + analytics and having side projects of my own to learn new things.
 
 
-💻 Currently a Data Engineer at [NTTdata](https://www.nttdata.com/global/en//)
+💻 Currently a Data Engineer at [Idealista](https://www.idealista.com/)
 
 📖 Interested/experienced in: Data Science, Machine Learning, XAML+C#
 
